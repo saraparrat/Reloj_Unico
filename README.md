@@ -1,4 +1,4 @@
-vertical_position
+vertical_position = 0
 
 
 def setup():
